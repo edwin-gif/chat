@@ -1,0 +1,10 @@
+.text-right {
+    text-align: right;
+}
+
+.badge bg-primary {
+    text-align: right;
+    color: white;
+}
+
+.badge {}
